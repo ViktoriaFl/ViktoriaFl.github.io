@@ -5,7 +5,6 @@ modified: 2026-10-25
 ---
 
 {% include base_path %}
-{% include toc %}
 
 ## Imprint 
 
