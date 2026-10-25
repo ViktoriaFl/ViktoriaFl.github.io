@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Viktoria Flore"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Viktoria Flore"
 description              : &description "Viktoria's Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Viktoria Flore"
   pronouns         : "she/her"  
-  bio              : "PhD Student in the lab of Simon Haas at Berlin Institute of Health at Charité and MDC Berlin"
+  bio              : "PhD Student in the Haas Lab at the Berlin Institute of Health at Charité - Universitätsmedizin Berlin and the Max Delbrück Center"
   location         : "Berlin"
   employer         : # 
   uri              : # URL
@@ -193,16 +193,10 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  packages:
     output: true
     permalink: /:collection/:path/
 
@@ -227,15 +221,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -245,24 +230,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _packages
   - scope:
       path: ""
-      type: portfolio
+      type: packages
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 
 # Sass/SCSS
 sass:
