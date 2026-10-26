@@ -10,7 +10,8 @@ Susek KH, … **Flore V**, et al. (2026) Oncolytic HSV1716 attenuates tumor-kill
 Schmitt P, … **Flore V**, et al. (2026) Oncogene inactivation-induced senescence facilitates tumor relapse. *Nature Communications*, [doi.org/10.1038/s41467-026-75021-9](https://doi.org/10.1038/s41467-026-75021-9) <br>
 
 Vonficht D\*, Jopp-Saile L\*, Yousefian S\*, **Flore V**\*, et al. (2025) Ultra-high-scale cytometry-based cellular interaction mapping. *Nature Methods*, [doi.org/10.1038/s41592-025-02744-w](https://doi.org/10.1038/s41592-025-02744-w) <br>
-\* *These authors contributed equally to this work.*
+\* *These authors contributed equally to this work.* <br>
+Also check out the accompanying [Research Briefing](https://www.nature.com/articles/s41592-025-02743-x) for a quick summary! 
 
 Hartmann M\*, Schönung M\* … **Flore V**, et al. (2025) Molecular Plasticity Results in Oncofetal Reprogramming and Therapeutic Vulnerabilities in Juvenile Myelomonocytic Leukemia. *Blood Cancer Discovery*, [doi.org/10.1158/2643-3230.BCD-25-0246](https://doi.org/10.1158/2643-3230.BCD-25-0246) <br> 
 \* *These authors contributed equally to this work.*
