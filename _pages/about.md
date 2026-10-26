@@ -31,7 +31,7 @@ Schmitt P, … **Flore V**, et al. (2026) Oncogene inactivation-induced senescen
 Vonficht D\*, Jopp-Saile L\*, Yousefian S\*, **Flore V**\*, et al. (2025) Ultra-high-scale cytometry-based cellular interaction mapping. *Nature Methods*, [doi.org/10.1038/s41592-025-02744-w](https://doi.org/10.1038/s41592-025-02744-w) <br>
 \* *These authors contributed equally to this work.*
 
-Hartmann M\*, Schönung M\* … **Flore V**, et al. (2025) Molecular Plasticity Results in Oncofetal Reprogramming and Therapeutic Vulnerabilities in Juvenile Myelomonocytic Leukemia. *Blood Cancer Discovery*, [doi.org/10.1158/2643-3230.BCD-25-0246](https://doi.org/10.1158/2643-3230.BCD-25-0246) <br>  
+Hartmann M\*, Schönung M\* … **Flore V**, et al. (2025) Molecular Plasticity Results in Oncofetal Reprogramming and Therapeutic Vulnerabilities in Juvenile Myelomonocytic Leukemia. *Blood Cancer Discovery*, [doi.org/10.1158/2643-3230.BCD-25-0246](https://doi.org/10.1158/2643-3230.BCD-25-0246) <br>
 \* *These authors contributed equally to this work.*
 
 Ciminski K, **Flore V**, et al. (2024) Functionality of IAV packaging signals depends on site-specific charges within the viral nucleoprotein. J Virol, 98(4), e0197223, [doi.org/10.1128/jvi.01972-23](https://doi.org/10.1128/jvi.01972-23) <br>
