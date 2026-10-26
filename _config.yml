@@ -13,9 +13,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Viktoria Flore"
 description              : &description "Viktoria's Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://ViktoriaFl.github.io 
+url                      : https://viktoriafl.github.io 
 baseurl                  : "" 
-repository               : "ViktoriaFl/ViktoriaFl.github.io"
+repository               : "ViktoriaFl/viktoriafl.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
