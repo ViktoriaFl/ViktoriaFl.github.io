@@ -8,16 +8,18 @@ redirect_from:
 ---
 
 I am a PhD researcher in the lab of Prof. Dr. Simon Haas at the
-[Berlin Institute of Health (BIH)](https://www.bihealth.org/) at 
-Charité Universitätsmedizin Berlin and the 
+[Berlin Institute of Health (BIH)](https://www.bihealth.org/) at Charité 
+Universitätsmedizin Berlin and the 
 [Berlin Institute of Medical Systems Biology (BIMSB)](https://www.mdc-berlin.de/bimsb) 
 at the Max Delbrück Center for Molecular Medicine in the Helmholtz Association. 
 I have a background in molecular medicine and molecular biology and work at the 
 intersection of hematology, immunology and single-cell technologies. <br>
 
-I am particularly interested in the development and application of single-cell 
-technologies to enable early disease detection and personalized intervention in 
-hematological cancers, focusing on the interaction with the immune system. 
+My work focuses on the development and application of single-cell technologies 
+to enable early disease detection and personalized intervention in 
+hematological cancers. I am particularly interested in the cellular origins of 
+blood cancer, variation in human immune function and the interplay of environmental, 
+behavioral and hereditary factors shaping disease risk. 
 <br>
 <br>
 
